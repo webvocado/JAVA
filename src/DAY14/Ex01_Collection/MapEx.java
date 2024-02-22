@@ -81,21 +81,3 @@ public class MapEx {
 		System.out.println("empty 여부 : " + map.isEmpty());
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

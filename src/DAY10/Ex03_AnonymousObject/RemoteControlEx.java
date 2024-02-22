@@ -28,5 +28,6 @@ public class RemoteControlEx {
 		rc.turnOn();
 		rc.setSpeed(50);
 		rc.turnOff();
+		
 	}
 }
