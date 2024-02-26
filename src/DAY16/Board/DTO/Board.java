@@ -30,10 +30,8 @@ public class Board {
 		this.writer = writer;
 		this.content = content;
 		this.regDate = new Date();
-		this.updDate = new Date();
-			
+		this.updDate = new Date();	
 	}
-
 	
 	// getter, setter
 	public int getNo() {

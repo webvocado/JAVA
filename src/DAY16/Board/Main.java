@@ -47,6 +47,7 @@ public class Main {
 		System.out.println("##### 게시글 조회 #####");
 		System.out.print("글 번호 : ");
 		int N = sc.nextInt();
+		sc.nextLine();
 		// 글번호(no)를 전달하여 게시글 정보 데이터 요청
 		Board board = boardService.select(N);
 		// 게시글 정보 출력

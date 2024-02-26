@@ -47,9 +47,3 @@ public class JDBConnection {
 	}
 
 }
-
-
-
-
-
-
